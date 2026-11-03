@@ -1,2 +1,1 @@
-# PL-IMGW-PIB
-This repository contains the code used to build a Zarr of the RainGRS dataset.
+RainGRS is an operational precipitation dataset for Poland, generated from weather radar, rain gauge, and satellite observations using a quality-controlled data fusion workflow. It provides precipitation estimates at 1 km spatial and 10-minute temporal resolution on an 800 × 900 grid in the PUWG 1992 projection. The version submitted to mlcast-datasets covers the period 2020–2022.
